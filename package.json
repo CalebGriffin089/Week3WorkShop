@@ -1,0 +1,24 @@
+{
+  "name": "week3workshop",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalebGriffin089/Week3WorkShop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalebGriffin089/Week3WorkShop/issues"
+  },
+  "homepage": "https://github.com/CalebGriffin089/Week3WorkShop#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "jquery": "^3.7.1"
+  }
+}
